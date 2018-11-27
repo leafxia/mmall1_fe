@@ -1,0 +1,19 @@
+{
+  "name": "mmall1_fe",
+  "version": "1.0.0",
+  "description": "mmall前端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leafxia/mmall1_fe.git"
+  },
+  "author": "Rosen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leafxia/mmall1_fe/issues"
+  },
+  "homepage": "https://github.com/leafxia/mmall1_fe#readme"
+}
